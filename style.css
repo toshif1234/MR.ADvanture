@@ -15,7 +15,7 @@ nav .navbar .a{
     background: #ffffff;
 }
 #home1{
-    border-radius: 20px;
+    border-radius: 30% 70% 70% 30% / 30% 30% 70% 70%;
     align-items: center;
     text-align: center;
     background: #E3E3E3;
@@ -24,7 +24,7 @@ nav .navbar .a{
     height: 100%;
 }
 #home2{
-    border-radius: 20px;
+    border-radius: 68% 32% 21% 79% / 66% 30% 70% 34% ;
     align-items: center;
     text-align: center;
     background: #00203F;
