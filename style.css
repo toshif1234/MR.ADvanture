@@ -1,0 +1,53 @@
+/*nav{
+    background: #ADF0D1;
+}
+nav .navbar .a{
+    background: #00203F;
+}*/
+.navbar{
+    background: #00203F;
+    background-position-x: right;
+}
+#search{
+    background:#A7C2D3 ;
+}
+#search:hover{
+    background: #ffffff;
+}
+#home1{
+    border-radius: 20px;
+    align-items: center;
+    text-align: center;
+    background: #E3E3E3;
+    padding: 10px;
+    width: 90%;
+    height: 100%;
+}
+#home2{
+    border-radius: 20px;
+    align-items: center;
+    text-align: center;
+    background: #00203F;
+    padding: 10px;
+    width: 90%;
+    height: 100%;
+}
+#section1{
+    background: #00203F;
+    border-radius: 25px;
+}
+#section1:hover{
+    background: #1E2029;
+}
+#section2{
+    background: #E3E3E3;
+    border-radius: 25px;
+}
+#section2:hover{
+    background: #A7C2D3;
+}
+#img2{
+    width: 100%;
+    height: 100%;
+    border-radius: 25px;
+}
